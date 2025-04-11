@@ -1,6 +1,6 @@
 # Repositório público Ricardo Ferreira
 
-O intuinto deste repositorio é apresentar alguns materiais de estudados que estou organizando aqui em um repositório público para o acesso de todos.
+O intuinto deste repositorio é apresentar alguns materiais de estudados que estou organizando aqui para o acesso de todos.
 
 ## Em Construção...
 
