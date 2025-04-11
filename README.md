@@ -6,4 +6,4 @@ O intuinto deste repositorio é apresentar alguns materiais de estudados que est
 
 Aprendisado adquirido durante a participacao de Bootcamps profissionais da plataforma **Dio.me**, focando em tecnologias e desemvolvimento de feramentas uteis com foco no problema apresentado.
 
-####<a href="https://github.com/ricardoferreira-ads">ricardoferreira.github.io</a>
+<a href="https://github.com/ricardoferreira-ads">ricardoferreira.github.io</a>
