@@ -6,7 +6,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-0077B5?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5533988227205)  
 [![GitHub](https://img.shields.io/badge/GitHub-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ricardoferreira-ads)
 <br>
-## Sobre
+### Sobre
 
 Sou Ricardo Ferreira, profissional formado em Análise e Desenvolvimento de Sistemas pelo IFNMG (Instituto Federal do Norte de Minas Gerais) em 2017. Minha trajetória profissional possui uma sólida experiência nas areas que envolvem tecnologia desde 2005. Ao longo da minha carreira, atuei em diversas frentes, incluindo vendas hardware e sistemas, manutenções hardwares, projetos estruturais e a implementação de projetos de infraestrutura de redes, softwares e sistemas.
 
